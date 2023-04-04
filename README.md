@@ -4,14 +4,14 @@ This is a starter pack for creating React projects with Tailwind CSS configured.
 Usage
 This starter pack includes a basic setup for using Tailwind CSS with React. To start building your own components and styles, follow these steps:
 
-1. Clone the repository to your local machine.
+1. Clone the repository to your local machine. <br>
 ``` git clone https://github.com/Pdeepak18/my-app1.git ```
 
-2. Install the required packages.
- ``` cd my-app1 ```
+2. Install the required packages. <br>
+ ``` cd my-app1 ``` <br>
  ``` npm install ```
 
-3. Start the development server.
+3. Start the development server. <br>
  ``` npm start ```
 
 4. Open the project in your browser at http://localhost:3000 to view your project.
